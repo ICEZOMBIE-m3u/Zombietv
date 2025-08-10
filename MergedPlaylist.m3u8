@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-08-10T15:50:50.443184Z
+# Last forced update: 2025-08-10T15:56:36.276157Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -3290,6 +3290,66 @@ https://v4.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8?token=LBTPsB_enOlbVsN9k5
 https://v18.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8?token=1ATYINr9Uk52Mk6VmrWiwQ&expires=1754840261&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants - 8/9/25, 8:06:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Washington Nationals @ San Francisco Giants - 8/9/25, 8:06:00 PM UTC
 https://v18.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8?token=ryU3VCWp6dXrTZ8VCKzdng&expires=1754840257&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-02/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-08/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-26/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-26/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Hd
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Sd
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-09/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-09/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-15/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Hd
+https://tvpass.org/live/mlb-20/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Sd
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Hd
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Sd
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-28/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-28/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Hd
+https://tvpass.org/live/mlb-16/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Sd
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-17/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Hd
+https://tvpass.org/live/mlb-13/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Sd
+https://tvpass.org/live/mlb-13/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-10/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-14/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Hd
+https://tvpass.org/live/mlb-27/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Sd
+https://tvpass.org/live/mlb-27/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
@@ -4876,6 +4936,14 @@ https://v13.thetvapp.to/hls/NFL03/tracks-v2a1/mono.m3u8?token=YtllatgP6FQ6CHzpYA
 https://v16.thetvapp.to/hls/NFL04/tracks-v1a1/mono.m3u8?token=pYSaOl3dtVMAdYPZIC-3zA&expires=1754840401&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans @ Minnesota Vikings - 8/9/25, 8:00:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL",Houston Texans @ Minnesota Vikings - 8/9/25, 8:00:00 PM UTC
 https://v16.thetvapp.to/hls/NFL04/tracks-v2a1/mono.m3u8?token=k59-ilWTjPqf61YCjniAwg&expires=1754840396&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Hd
+https://tvpass.org/live/NFL11/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Sd
+https://tvpass.org/live/NFL11/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Hd
+https://tvpass.org/live/NFL12/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Sd
+https://tvpass.org/live/NFL12/sd
 
 #EXTGRP:PBS
 #EXTINF:-1  tvg-name="Alaska Public Media" tvg-id="PBS.Kids.us" tvg-logo="https://image.pbs.org/stations/kakm-color-single-brand-logo-CKvfnQs.png" group-title="PBS",Alaska Public Media
@@ -13793,3 +13861,25 @@ https://ott.udptv.xyz/stream/udptv/vevocountry/master.m3u8?u=cocked&p=dd0abb5272
 https://ott.udptv.xyz/stream/udptv/vevohiphop/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Warner TV Serie DE" tvg-id="skyde/warnertvserie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="UDPTV Live Streams",Warner TV Serie DE
 https://ott.udptv.xyz/stream/udptv/vevorb/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTGRP:WNBA
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Hd
+https://tvpass.org/live/WNBA03/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Sd
+https://tvpass.org/live/WNBA03/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Hd
+https://tvpass.org/live/WNBA05/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Sd
+https://tvpass.org/live/WNBA05/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Hd
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Sd
+https://tvpass.org/live/WNBA01/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Hd
+https://tvpass.org/live/WNBA04/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Sd
+https://tvpass.org/live/WNBA04/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Hd
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Sd
+https://tvpass.org/live/WNBA02/sd
