@@ -14179,76 +14179,78 @@ https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8
 #EXTINF:-1 channel-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-chno="477" tvg-name="XPLORE" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f230a0c3f7ba5804b42d88f5d3c20002/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655156610060_XPLORE_logo_ROKU__hud-light_260x147.png" group-title="Sports",XPLORE
 https://jmp2.uk/rok-f230a0c3f7ba5804b42d88f5d3c20002.m3u8
 
-#EXTGRP:StreamEast - Am. Football
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",New England Patriots vs. New York Giants Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1755728368-poW5ummeC88BxLD%2B9Vs80Cs5maz4gCM%2FfgTu11uMPsk%3D
-
 #EXTGRP:StreamEast - Baseball
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Athletics vs. Minnesota Twins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=XfPChR0-6EvhiX_9gANKqIUpGdEJSj5Z83H7yd9NwU8&e=1755739205
+https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=Yg6d5QVrIUqZPIGG7yRIQqvc-c_dv9P4kNIhy-rg4wI&e=1755742811
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Chicago White Sox vs. Atlanta Braves Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=0MWdJFQfOY1DQP8Dj7UT4SckS8Zb9otzK0C_9_yIGDc&e=1755739202
+https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=UaautUmztaQ1gUyKL3O5X0BMFtpE60XGeTxuLs069Rs&e=1755742829
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cincinnati Reds vs. Los Angeles Angels Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=2XfD0AoRc-rcj7TGYH5gTGyRz-w-2MPJfrs8uIHJUJw&e=1755739156
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cleveland Guardians vs. Arizona Diamondbacks Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=uqZfL0XXv17j5yMBaDUhrVu7Zsik42F2dxGB3VVKM04&e=1755739196
+https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=KiYEDVUhrMXP8R-wWqPlnq5wDkrDFEZM1dYxqTjuu0A&e=1755742836
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. Colorado Rockies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/kjhfzua25.m3u8?st=EyaAtsHAAKwGQ2MlL35S0byY_UJK9hGWZZMuoPrhfoU&e=1755739209
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=dDo00IkNZ1Qfwz5vZUCEemTO4sGphsb9VND9p48JgpQ&e=1755742826
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Milwaukee Brewers vs. Chicago Cubs Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/fskjanach24.m3u8?st=Iyf8mWbsP8prxXMvRrGO2LSbIjYcxIcDJuVPQo1zMM0&e=1755739190
+https://mainstreams.pro/hls/fskjanach24.m3u8?st=i5hJdMYQUF2UWICzN9mP4k3L3BGckxbUT5_fAlUAHZI&e=1755742871
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",New York Mets vs. Washington Nationals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=Ew0j5FqNG5DcL4JkeRFcmSMBfnSl_egEgvjv4Al3CDQ&e=1755739172
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=dqo2-Hcpl_0I4KIZFIJ88YO3BHTsxsSdgve2HqsYXS8&e=1755742848
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",New York Yankees vs. Tampa Bay Rays Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=AGTFzVfaQO3JLDs-wmYk3oiL9UKscyCDTCMwVJQhbWo&e=1755739177
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=TQvWj15puT2JoFKSwxAAe-TNJ_1K4Ktj9MLU9FRyuXM&e=1755742797
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",San Francisco Giants vs. San Diego Padres Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=6ufUzjE3_S62dsnq2FaYmO-3rGXAibl1O-DbGHQNq5I&e=1755739161
+https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=_e1XKwHapDwke86fQEhYNyYgq_WDUbQdepLwANrqzL0&e=1755742877
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",St. Louis Cardinals vs. Miami Marlins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=ubrZmdCPSt4iUVVa4kNMiHRqVXlTRbX6VSp_N_NobzI&e=1755739180
+https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=odRddJP2r6DLTBorNs6pHjy0cjTAOyYs1m6dkeBnpbQ&e=1755742804
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Texas Rangers vs. Kansas City Royals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=g8ehHvUjasKd9d_EPwWjkjZF5zgYsVpZjhVGAgh9FqY&e=1755739185
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=u4jYa_28oBEk5bISmRVTRGcrRWABBI5-ifeKI1KgSaI&e=1755742843
+
+#EXTGRP:StreamEast - F1
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/zeuryuegn48.m3u8?st=UTo1Efx9yQb65sgMY-5V_4AesmuvWZIIiRv-q4MchcQ&e=1755742819
 
 #EXTGRP:StreamEast - MMA
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Walker vs. Zhang Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ1/index.m3u8?st=hXUUHB-qciv9zWg13riQ_A&e=1755739137
+https://nextcast.click/hls/HDGQ1/index.m3u8?st=sghgEw_zzLnwEhEaumTKtg&e=1755742832
+
+#EXTGRP:StreamEast - Soccer
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Inter Miami CF vs. Tigres UANL Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fvvxvv.6670391863.store:8443/hls/pdiez3cpk4198.m3u8?s=zZLYvIZ1QYBgtQT6yf7-Fg&e=1755753592
 
 #EXTGRP:Sweden
 #EXTINF:-1 channel-id="6346935b94aa8c0007c5b7a2-se" tvg-id="6346935b94aa8c0007c5b7a2" tvg-chno="704" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6346935b94aa8c0007c5b7a2/colorLogoPNG.png" group-title="Sweden",48 Hours
