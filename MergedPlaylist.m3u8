@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-08-22T22:50:06.936003Z
+# Last forced update: 2025-08-22T23:09:00.536216Z
 
 #EXTGRP:24/7 by Mystique
 #EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png" group-title="24/7 by Mystique" radio="false",Amphibia 24/7
@@ -2454,6 +2454,8 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Billy.Madison.1995.1080p.BluRay.H264.AAC-RARBG.mp4
 #EXTINF:-1  tvg-name="Bleach the Movie: The DiamondDust Rebellion (2007)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk3MzY1OTUyOV5BMl5BanBnXkFtZTcwMzMwOTE3Mg@@._V1_.jpg" group-title="DrewLive VOD" radio="false",Bleach the Movie: The DiamondDust Rebellion (2007)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Bleach%20(2004)/Movies/Bleach%20-%20The%20DiamondDust%20Rebellion%20-%20Memento%20Mori%20(Movie).mp4
+#EXTINF:-1  tvg-name="Blood In Blood Out (1993)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjViOTYwNWUtNTZlYi00YzMxLTljMjAtM2Y2NDAxNTU5OTI4XkEyXkFqcGc@._V1_.jpg" group-title="DrewLive VOD" radio="false",Blood In Blood Out (1993)
+http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Blood.In%2C.Blood.Out.1993.720p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1  tvg-name="Boyz n the Hood (1991)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhNDcyYTctOWU1My00ZmUzLWFmNmItZTIwY2JkNjVkZTdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DrewLive VOD" radio="false",Boyz n the Hood (1991)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Boyz.n.The.Hood.1991.1080p.BRrip.x264.YIFY.mp4
 #EXTINF:-1  tvg-name="Bride of Chucky (1998)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2OGE5MjktYjcyYS00M2QxLWE4YTYtYmNjYmE0M2I3ZDMxXkEyXkFqcGc@._V1_.jpg" group-title="DrewLive VOD" radio="false",Bride of Chucky (1998)
@@ -2772,8 +2774,6 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Spider.Man.2.2004.1080p.BluR
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.H264.AAC-LAMA.mp4
 #EXTINF:-1  tvg-name="Spider-Man: No Way Home (2021)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg" group-title="DrewLive VOD" radio="false",Spider-Man: No Way Home (2021)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Spider-Man.No.Way.Home.2021.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv
-#EXTINF:-1  tvg-name="Spirit in the Blood (2024)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjViOTYwNWUtNTZlYi00YzMxLTljMjAtM2Y2NDAxNTU5OTI4XkEyXkFqcGc@._V1_.jpg" group-title="DrewLive VOD" radio="false",Spirit in the Blood (2024)
-http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Blood.In%2C.Blood.Out.1993.720p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1  tvg-name="Spy Kids 3-D: Game Over (2003)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzVhNjgtMDE5Zi00YmIyLWI4ZTQtZTBiZTRkNmFhZjUzXkEyXkFqcGc@._V1_.jpg" group-title="DrewLive VOD" radio="false",Spy Kids 3-D: Game Over (2003)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Spy.Kids.3.Game.Over.2003.1080p.BluRay.H264.AAC-RARBG.mp4
 #EXTINF:-1  tvg-name="Stay Alive (2006)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTAyMjUyNV5BMl5BanBnXkFtZTcwOTY4MjQzMQ@@._V1_.jpg" group-title="DrewLive VOD" radio="false",Stay Alive (2006)
