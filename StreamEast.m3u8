@@ -1,8 +1,20 @@
-# Updated at 2025-08-23T11:20:22.904535Z
+# Updated at 2025-08-23T12:48:01.653098Z
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Manchester City vs. Tottenham Hotspur Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=F2s_CPGOVRPBVKUvdnfDihxFcAEequs5E8KFREnF6Lo&e=1755964137
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Walker vs. Zhang Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/zeuryuegn48.m3u8?st=jCyHI-Mm1A0z5uGBjZELkzbBXD5tVHEbuYVT344QZ0A&e=1755964184
+
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=lpldWN7oEXrNLI9blp0KEfomchSulEOy2_qSzXbrpBs&e=1755958833
+https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=WQnRsIB3COUvYlgJcCCr4z7T_qBzFelPpXSlhCvB_uc&e=1755964199
 
