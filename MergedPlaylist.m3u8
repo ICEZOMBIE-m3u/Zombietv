@@ -9988,159 +9988,166 @@ https://jmp2.uk/stvp-USBC2400019EF
 #EXTINF:-1  tvg-id="US270000298" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20241119T020402SQUARE.png" tvg-chno="3907" group-title="SamsungTVPlus - USA",Â¿QuÃ© Culpa Tiene FatmagÃ¼l?
 https://jmp2.uk/stvp-US270000298
 
+#EXTGRP:StreamEast - Am. Football
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Dallas Cowboys vs. Philadelphia Eagles Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756444967-ojN7XaDGm6lZm8TfmjeJgQ3XgHpkw5n7whJahl1ZaXA%3D
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Kansas City Chiefs vs. Los Angeles Chargers Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756444964-PU36%2BtCTsqT8plsHoHu%2BFN3mk2nXbGtpF1h2ZIoPNqY%3D
+
 #EXTGRP:StreamEast - College Football
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Albany Great Danes vs. Iowa Hawkeyes Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ijzriafaq41.m3u8?st=U3WHWaxybWoxW0TmhIsbmypf4VyVVhkqzBXogTDNhao&e=1756452544
+https://mainstreams.pro/hls/ijzriafaq41.m3u8?st=RM2vCjaRRzkik4ZgX5MzUeGqk-8b62KOhuLAMyZM3l8&e=1756455739
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Auburn Tigers vs. Baylor Bears Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://nextcast.click/hls/HDGQ11/index.m3u8?st=_fM0b5s9AxclWI4A-95W0w&e=1756455665
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Ball State Cardinals vs. Purdue Boilermakers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=D7oN_FQUM_NxXTHgmPv_ePxQSwr5cfL-IOBRKe5Ba8A&e=1756452413
+https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=18sSwbb0twVlfqXtWTjECYSGooOfVmpH1z_HF5ZO4rk&e=1756455718
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Bethunevs.Cookman vs. Florida International Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/qsdnajbq32.m3u8?st=fKc_2LEe92V_cMIfDmLT_VsqbArb5znQdkl9DaCkLNA&e=1756452510
+https://edgestreams.pro/hls/qsdnajbq32.m3u8?st=6C7EuB-8FLU4Mb3toULwtkxebvtiWUsh0RpCrDbPlY0&e=1756455696
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Bucknell Bison vs. Air Force Falcons Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=meOcn-zaKv1bwSBoh1otIUodnnE9gei2Ja3jqcwtXGY&e=1756455618
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Central Michigan Chippewas vs. San Jose State Spartans Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ijzriafaq41.m3u8?st=_qJ2ajTflVKh_3cEFIsR3xobVCuwxZXePO4K3tWobro&e=1756452535
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Coastal Carolina Chanticleers vs. Virginia Cavaliers Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/oipozuezeji33.m3u8?st=CUFimPJTDE5NOrKr6dpF0RBoroHL8y1idHURAAIzfYM&e=1756452436
+https://edgestreams.pro/hls/ijzriafaq41.m3u8?st=Zvc1vgahBRpR5r0ETS7SvpdNL7Es0QLJ7ponmvLuUfU&e=1756455628
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Duquesne Dukes vs. Pittsburgh Panthers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=HfgHDmo5iwKdRM_Rr5xNHRc0N5Zmk9OYZntp6Ugp3WU&e=1756452393
+https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=PQT7JGeTGZ2L719xUvHhNpZWqFCVJq-45bA3A56zhKs&e=1756455640
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Eastern Kentucky Colonels vs. Louisville Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=YL1UWzdRVFmROWy9bzCMQP8mBf634N3QOBcFjWf4Tn4&e=1756452463
+https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=_zYSulfhMLjV5y4fqRBneJJxL_fszGSblUom6wesoVI&e=1756455612
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Florida Atlantic Owls vs. Maryland Terrapins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=TUydz2DXLK9e3YYsVxfA297VeXYL2KZu6BNBXOkOL2Y&e=1756452450
+https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=A42Xx0ZhzDIlDL4oiCNFKSiWOIhZwH3hnn2c2y4QWZU&e=1756455645
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Georgia Tech Yellow Jackets vs. Colorado Buffaloes Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/JHDAJBDnjdna30.m3u8?st=SLnN9hA_G_MkX8QT6Eoxb_M7lNT3beuPZ3rCYJC2GVk&e=1756452486
+https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=6nlI8CYeHrGq7VxJF4lvSKHth2rf-YPNe3DmvgBh5Fc&e=1756455682
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Kennesaw State Owls vs. Wake Forest Demon Deacons Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/oipozuezeji33.m3u8?st=jGPPq3kXyAuq31gMIlRYb7pHJiHay1I0yg5NPG5WvYc&e=1756452490
+https://mainstreams.pro/hls/oipozuezeji33.m3u8?st=e6LepOUHv4HXb8bODurIYpXxJkeM9wLSR1H8Jwb9oZc&e=1756455712
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Marshall Thundering Herd vs. Georgia Bulldogs Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/JHDAJBDnjdna30.m3u8?st=zKxBb5w7CwRqVduM7B7Wca_tLAA-o6c2MxuCMQ6UrJc&e=1756452424
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Miami (OH) RedHawks vs. Wisconsin Badgers Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=RfRFybl_gYE2xMqQUstvYShIxxdHegMxp8ZVDUnRa6I&e=1756452459
+https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=ExEuZI7owUqjmOJ6eaxRx-VKxPowF4xGNYgsE4MksxU&e=1756455633
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Mississippi State Bulldogs vs. Southern Miss Golden Eagles Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=2DEAB3suvfRu_2l3rlzdAlasO8Ln4Xffc2z_XT7UhJs&e=1756452444
+https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=U6S9mCmdS0ft821H0XvoSHeDXOk2t5qhuzdeL0QCvJM&e=1756455608
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Montana State Bobcats vs. Oregon Ducks Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=LwZwBmiBZCz0cXZ3coUANh2EYuZ7awuByP23SumwjxQ&e=1756452376
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Nebraska Cornhuskers vs. Cincinnati Bearcats Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=EFpNDnQuIU32RWMlmSdKl3nk49ntSWtzBwtL6STTyNA&e=1756452429
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Nevada Wolf Pack vs. Penn State Nittany Lions Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ13/index.m3u8?st=PbxsWHkIKK7kDEq6OJNBJw&e=1756452456
+https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=gvpLwhRWlo8Go6xw4R6MRU9y9eesjsnhB8Y7ltiFW_s&e=1756455595
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Old Dominion Monarchs vs. Indiana Hoosiers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ijzriafaq41.m3u8?st=xmX3PA2zLRlRr8YINKZ7O3YCYQUM2ZfybWBY1PHoE3M&e=1756452497
+https://mainstreams.pro/hls/ijzriafaq41.m3u8?st=obTfUoY5O-7t2QcNPp7gplD9LP8YH7LZ1WUkqbWSoIY&e=1756455685
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",South Dakota Coyotes vs. Iowa State Cyclones Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ11/index.m3u8?st=bH76Hi2LVg9h3Ozo627KAQ&e=1756452390
+https://nextcast.click/hls/HDGQ11/index.m3u8?st=IllJiEE5_i4lzFlyvWGpuw&e=1756455709
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Stony Brook Seawolves vs. San Diego State Aztecs Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hbfhzbfzak46.m3u8?st=_vW5FbWKphgVuiRr-zFzrcyYATak51cclDnyJms_Sa8&e=1756452469
+https://edgestreams.pro/hls/hbfhzbfzak46.m3u8?st=XOqDevDeuSpZJtON4tbdObZnR1badgeVnInE7uwFtrM&e=1756455671
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Tarleton State Texans vs. Army West Point Black Knights Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=Zc1I33im0lROi9UYmm2iDZ1VDr1wyKFYCd6Kg5HmR10&e=1756452517
+https://edgestreams.pro/hls/griogoehvn2.m3u8?st=lREEfbLk5pYgDnFmMk07l9Wv5zqgBg-ucj969yzuwKY&e=1756455753
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Texas Longhorns vs. Ohio State Buckeyes Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ11/index.m3u8?st=JLthBzs9VmvWoj1NzELn4g&e=1756452505
+https://nextcast.click/hls/HDGQ11/index.m3u8?st=uAvpiHZOfa3rDIIbEIvSjA&e=1756455736
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Toledo Rockets vs. Kentucky Wildcats Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ysvbxwnbc38.m3u8?st=v8CgjyPZzqjGUrSIxJvmfGphtwI39_hPw-uRWSFku0I&e=1756452520
+https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=4kvtF4Xq3NZvsYGyojvT2Bvi0Zrnt7DhlWL6wDr629c&e=1756455746
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",UNLV Rebels vs. Sam Houston Bearkats Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=g_NNKF23iigsJFsy4ruqzp8BnNnEJ6UAEtIPLeAdryE&e=1756452366
+https://edgestreams.pro/hls/griogoehvn2.m3u8?st=fZvX1K0tR5f5NxzHRcoLe3D4elL7RwFdPXKT8tohQs0&e=1756455676
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",VMI Keydets vs. Navy Midshipmen Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=e37eJYJ1vBo89zwNDX3RIyCagDlH1WiwydT9S47cVSo&e=1756452407
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=bY46KCsx2Tk7sLCvAheeJwMYZH3KVS2tqrpeEkoHkK4&e=1756455703
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Wagner vs. Kansas Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/uheyztezgj34.m3u8?st=dG6P-GSvxDgXG-8oi7VRhEGln3eWYjXShplU5yZ4m_g&e=1756455759
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Western Michigan Broncos vs. Michigan State Spartans Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ijzriafaq41.m3u8?st=1-jf10Zz_3ZGY3bsLsxmM6JdceQHWzCciz85_oc2DIQ&e=1756452361
+https://edgestreams.pro/hls/ijzriafaq41.m3u8?st=8uxEL-4xZQbhJKhy-_NTW8DaDIHbnlg4dU9YUKA0DmE&e=1756455668
 
 #EXTGRP:StreamEast - F1
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=wbplKckSSFYxMrkPl4s8CA&e=1756452523
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=3FDItKgcV66WOBcI53Kf7g&e=1756455653
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 2 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=NoHeDgpvNf8KQRqp-NokQw&e=1756452432
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=p8mK1SmyB-tmjvfIOyJOBg&e=1756455750
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=ZfR8zOtV2JTd58RWwKC5sw&e=1756452503
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=toOI78FAzS459HkAfQewEg&e=1756455624
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=fbdIBPyRGoMT3fsGmVB0kA&e=1756452372
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=evWpRkcwS_EQIlgCqNuz7Q&e=1756455587
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Dutch GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=ednwqB_N1j9ee-MeZwg6HQ&e=1756452550
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=V0HVnIzcjfgjfSRhHntyJg&e=1756455663
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
