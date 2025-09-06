@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-09-06T00:40:59.183334Z
+# Last forced update: 2025-09-06T02:11:27.379812Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg",Big Brother 27: Camera Feeds (AD-FREE) (FEED 1)
 #EXTVLCOPT:http-origin=https://timstreams.xyz
 #EXTVLCOPT:http-referrer=https://timstreams.xyz/
@@ -25,8 +25,3 @@ https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535926-1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://timstreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2dxulspbjoep9.cloudfront.net/out/v1/a2c4b0e563774bf4933842662d794776/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/hbafT0B-clh60k213syw8sno5uyuzj30nnde.jpeg",Boone Speedway (AD-FREE)
-#EXTVLCOPT:http-origin=https://timstreams.xyz
-#EXTVLCOPT:http-referrer=https://timstreams.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://cdn3.wowza.com/1/Q1B3RzBlOHlpbGxU/eEF5Rmds/hls/live/playlist.m3u8
