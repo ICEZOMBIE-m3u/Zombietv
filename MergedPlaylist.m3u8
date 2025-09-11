@@ -6831,24 +6831,64 @@ https://gg.poocloud.in/epl_west-ham/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/southpark/index.m3u8
+https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - MLB
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/9b0f1a9c1f70026cf6f8e100a515d18f-thumbnail.jpg" group-title="PPVLand - MLB",Cincinnati Reds vs. San Diego Padres
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/padres/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/65abaee6a0db4eabba15e87b64ac5825-thumbnail.jpg" group-title="PPVLand - MLB",Colorado Rockies vs. Los Angeles Dodgers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/dodgers/index.m3u8
+https://gg.poocloud.in/dodgers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ae2b1d17c96d982c0a6e920e0ff5579f-thumbnail.jpg" group-title="PPVLand - MLB",Colorado Rockies vs. San Diego Padres
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/padres/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/e10d71de175b498122e73fab40124f29-thumbnail.jpg" group-title="PPVLand - MLB",Detroit Tigers vs. New York Yankees
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/yankees/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/31425e68c7e1b51822cfdb395c2793e2-thumbnail.jpg" group-title="PPVLand - MLB",Houston Astros vs. Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/bluejays/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/d0a29478b4721cab99517095da2c47cb-thumbnail.jpg" group-title="PPVLand - MLB",Kansas City Royals vs. Cleveland Guardians
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/guardians/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/8971b329d6f619350f3b42915d3d548c-thumbnail.jpg" group-title="PPVLand - MLB",Los Angeles Angels vs. Seattle Mariners
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/mariners/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/4235a03b969f3636f4814117b1215a14-thumbnail.jpg" group-title="PPVLand - MLB",New York Mets vs. Philadelphia Phillies
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/phillies/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/79cd7ed933c93a3b36e95acef2c06b49-thumbnail.jpg" group-title="PPVLand - MLB",Pittsburgh Pirates vs. Baltimore Orioles
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/orioles/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0f2065a34e8cd05b11dc4eef06751b4a-thumbnail.jpg" group-title="PPVLand - MLB",St. Louis Cardinals vs. Seattle Mariners
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/mariners/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/8204754c521bac4b2c205088a805e7e3-thumbnail.jpg" group-title="PPVLand - MLB",Tampa Bay Rays vs. Chicago White Sox
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/whitesox/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/46f53805e96421394ff5371a2b5b5b50-thumbnail.jpg" group-title="PPVLand - MLB",Washington Nationals vs. Miami Marlins
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/marlins/index.m3u8
 
 #EXTGRP:PPVLand - NFL & College Football Action
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/1dfac139e4eddee355b7f9e99a92c043-thumbnail.jpg" group-title="PPVLand - NFL & College Football Action",Atlanta Falcons vs. Minnesota Vikings
