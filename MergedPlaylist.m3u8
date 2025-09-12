@@ -7524,6 +7524,11 @@ https://gg.poocloud.in/laliga_athletic-club/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/laliga_atletico-de-madrid/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0aba969c348a7a1ed1345884da6b7483-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayer Leverkusen vs Eintracht Frankfurt
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/bundesliga_leverkusen/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/86bd9a7659647e7e23837992c02db4fd-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayern München vs. Chelsea
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
@@ -7884,7 +7889,7 @@ https://gg.poocloud.in/neworleanssaints/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
+https://gg.poocloud.in/pittsburghsteelers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/f8b2dd164f22f32b03397082b6920b9e-thumbnail.jpg" group-title="PPVLand - NFL Action",Tampa Bay Buccaneers vs. Houston Texans
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
@@ -7896,12 +7901,12 @@ https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
