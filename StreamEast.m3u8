@@ -1,2 +1,20 @@
-# Updated at 2025-09-12T23:22:44.228914Z
+# Updated at 2025-09-13T01:43:32.656262Z
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cincinnati Reds vs. Athletics Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=-eC_nWvvItXS5mhMONzScQdA-AHCwy9Bmpv_uxEnOkQ&e=1757738660
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Angels vs. Seattle Mariners Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=xJVWwxbqVGRAa0H1Ljcm3EXDXBcxdyAqIw7rhZELAvo&e=1757738674
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. San Francisco Giants Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=8u8uHQ863MMaplso9VT8tAh26cy9o3CjgYxT5vUjRcM&e=1757738761
+
