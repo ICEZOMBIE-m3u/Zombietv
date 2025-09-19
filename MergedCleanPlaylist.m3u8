@@ -12876,7 +12876,7 @@ https://gg.poocloud.in/laliga_real-madrid/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_stuttgart/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bundesliga_stuttgart/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/07a7e2e02dcb4d8777afb3bd68b6d328-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Torino vs. Atalanta
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -12909,7 +12909,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIz
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​​‌​​‌‌​​‌‌‌​‌​​ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​‌​‌​​​​‌​‌​​​​‌‌‌‌​‌‌​‌‌ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -12924,13 +12924,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8
-
-#EXTGRP:PPVLand - Live Now
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppvs.su/assets/thumb/0236bcf2d3283d6f9a10aedb9fb00d5d-thumbnail.jpg" group-title="PPVLand - Live Now",Utsunomiya Brex vs Unicaja
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/courtside-1891-208019/index.m3u8?md5=fuWpjP_IuWN51-F4WlwxpQ&expires=1758295800&net=MjAuMTA5LjM4LjExNg%3D%3D
 
 #EXTGRP:Reality
 #EXTINF:-1 channel-id="99e44ea6699928b32c444dce774b9b32" tvg-id="99e44ea6699928b32c444dce774b9b32" tvg-chno="690" tvg-name="Chaos on Cam by A&E" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/99e44ea6699928b32c444dce774b9b32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png" group-title="Reality",Chaos on Cam by A&E
@@ -16697,6 +16690,84 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
+
+#EXTGRP:TVPass - MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Detroit Tigers (09/19 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Detroit Tigers (09/19 6:41 Pm Et) Hd
+https://tvpass.org/live/MLB23/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Detroit Tigers (09/19 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Detroit Tigers (09/19 6:41 Pm Et) Sd
+https://tvpass.org/live/MLB23/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Tampa Bay Rays (09/19 7:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Tampa Bay Rays (09/19 7:36 Pm Et) Hd
+https://tvpass.org/live/MLB17/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Tampa Bay Rays (09/19 7:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Tampa Bay Rays (09/19 7:36 Pm Et) Sd
+https://tvpass.org/live/MLB17/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Cincinnati Reds (09/19 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Chicago Cubs @ Cincinnati Reds (09/19 6:41 Pm Et) Hd
+https://tvpass.org/live/MLB27/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ Cincinnati Reds (09/19 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Chicago Cubs @ Cincinnati Reds (09/19 6:41 Pm Et) Sd
+https://tvpass.org/live/MLB27/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Minnesota Twins (09/19 8:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cleveland Guardians @ Minnesota Twins (09/19 8:10 Pm Et) Hd
+https://tvpass.org/live/MLB10/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Minnesota Twins (09/19 8:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cleveland Guardians @ Minnesota Twins (09/19 8:10 Pm Et) Sd
+https://tvpass.org/live/MLB10/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Colorado Rockies (09/19 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Angels @ Colorado Rockies (09/19 8:11 Pm Et) Hd
+https://tvpass.org/live/MLB25/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Colorado Rockies (09/19 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Angels @ Colorado Rockies (09/19 8:11 Pm Et) Sd
+https://tvpass.org/live/MLB25/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Texas Rangers (09/19 8:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Miami Marlins @ Texas Rangers (09/19 8:06 Pm Et) Hd
+https://tvpass.org/live/MLB28/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Texas Rangers (09/19 8:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Miami Marlins @ Texas Rangers (09/19 8:06 Pm Et) Sd
+https://tvpass.org/live/MLB28/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ St. Louis Cardinals (09/19 8:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Milwaukee Brewers @ St. Louis Cardinals (09/19 8:16 Pm Et) Hd
+https://tvpass.org/live/MLB19/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ St. Louis Cardinals (09/19 8:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Milwaukee Brewers @ St. Louis Cardinals (09/19 8:16 Pm Et) Sd
+https://tvpass.org/live/MLB19/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Baltimore Orioles (09/19 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Baltimore Orioles (09/19 7:06 Pm Et) Hd
+https://tvpass.org/live/MLB26/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Baltimore Orioles (09/19 7:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Baltimore Orioles (09/19 7:06 Pm Et) Sd
+https://tvpass.org/live/MLB26/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Pittsburgh Pirates (09/19 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Oakland Athletics @ Pittsburgh Pirates (09/19 6:41 Pm Et) Hd
+https://tvpass.org/live/MLB16/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Pittsburgh Pirates (09/19 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Oakland Athletics @ Pittsburgh Pirates (09/19 6:41 Pm Et) Sd
+https://tvpass.org/live/MLB16/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Arizona Diamondbacks (09/19 9:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Philadelphia Phillies @ Arizona Diamondbacks (09/19 9:41 Pm Et) Hd
+https://tvpass.org/live/MLB21/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Arizona Diamondbacks (09/19 9:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Philadelphia Phillies @ Arizona Diamondbacks (09/19 9:41 Pm Et) Sd
+https://tvpass.org/live/MLB21/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Chicago White Sox (09/19 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Diego Padres @ Chicago White Sox (09/19 7:41 Pm Et) Hd
+https://tvpass.org/live/MLB18/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Chicago White Sox (09/19 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Diego Padres @ Chicago White Sox (09/19 7:41 Pm Et) Sd
+https://tvpass.org/live/MLB18/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Los Angeles Dodgers (09/19 10:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Francisco Giants @ Los Angeles Dodgers (09/19 10:11 Pm Et) Hd
+https://tvpass.org/live/MLB22/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Los Angeles Dodgers (09/19 10:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Francisco Giants @ Los Angeles Dodgers (09/19 10:11 Pm Et) Sd
+https://tvpass.org/live/MLB22/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Houston Astros (09/19 8:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Houston Astros (09/19 8:10 Pm Et) Hd
+https://tvpass.org/live/MLB20/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Houston Astros (09/19 8:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Houston Astros (09/19 8:10 Pm Et) Sd
+https://tvpass.org/live/MLB20/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Kansas City Royals (09/19 7:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Kansas City Royals (09/19 7:41 Pm Et) Hd
+https://tvpass.org/live/MLB24/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Kansas City Royals (09/19 7:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Kansas City Royals (09/19 7:41 Pm Et) Sd
+https://tvpass.org/live/MLB24/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ New York Mets (09/19 7:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Washington Nationals @ New York Mets (09/19 7:10 Pm Et) Hd
+https://tvpass.org/live/MLB08/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ New York Mets (09/19 7:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Washington Nationals @ New York Mets (09/19 7:10 Pm Et) Sd
+https://tvpass.org/live/MLB08/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Iowa Hawkeyes @ Rutgers Scarlet Knights (09/19 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Iowa Hawkeyes @ Rutgers Scarlet Knights (09/19 8:00 Pm Et) Hd
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Iowa Hawkeyes @ Rutgers Scarlet Knights (09/19 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Iowa Hawkeyes @ Rutgers Scarlet Knights (09/19 8:00 Pm Et) Sd
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Tulsa Golden Hurricane @ Oklahoma State Cowboys (09/19 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Tulsa Golden Hurricane @ Oklahoma State Cowboys (09/19 7:30 Pm Et) Hd
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Tulsa Golden Hurricane @ Oklahoma State Cowboys (09/19 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Tulsa Golden Hurricane @ Oklahoma State Cowboys (09/19 7:30 Pm Et) Sd
+https://tvpass.org/live/ESPN/sd
+
+#EXTGRP:TVPass - WNBA
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="New York Liberty @ Phoenix Mercury (09/19 9:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",New York Liberty @ Phoenix Mercury (09/19 9:00 Pm Et) Hd
+https://tvpass.org/live/ESPN2/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="New York Liberty @ Phoenix Mercury (09/19 9:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",New York Liberty @ Phoenix Mercury (09/19 9:00 Pm Et) Sd
+https://tvpass.org/live/ESPN2/sd
 
 #EXTGRP:Uncategorized
 #EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Uncategorized",BABY SHARK TV
