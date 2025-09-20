@@ -78,7 +78,7 @@ https://gg.poocloud.in/laliga_girona-fc/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/seriea_bologna/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/seriea_bologna/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Augsburg vs. Mainz
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -88,7 +88,7 @@ https://gg.poocloud.in/bundesliga_augsburg/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/bundesliga_hamburg/index.m3u8
+https://gg.poocloud.in/bundesliga_hamburg/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Hoffenheim vs. Bayern
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -98,7 +98,12 @@ https://gg.poocloud.in/bundesliga_hoffenheim/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/bundesliga_bremen/index.m3u8
+https://gg.poocloud.in/bundesliga_bremen/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Goal Rush
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/epl_goalrush/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Brighton and Hove Albion vs. Tottenham Hotspur
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -118,12 +123,12 @@ https://gg.poocloud.in/epl_west-ham/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/epl_wolves/index.m3u8
+https://gg.poocloud.in/epl_wolves/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Real Madrid vs. RCD Espanyol de Barcelona
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/laliga_real-madrid/index.m3u8
+https://gg.poocloud.in/laliga_real-madrid/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",FC Nantes vs. Rennes
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -138,7 +143,7 @@ https://gg.poocloud.in/seriea_hellas-verona/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/epl_man-utd/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_man-utd/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Deportivo Alavés vs. Sevilla FC
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -299,7 +304,7 @@ https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​‌​​‌​​‌‌​‌​​​‌​​‌​‌​‌​​​​‌​ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​​‌​‌​​​‌‌​​‌‌‌‌​‌​​‌​​​‌ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
