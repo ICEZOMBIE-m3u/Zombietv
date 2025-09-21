@@ -7670,28 +7670,6 @@ https://jmp2.uk/stvp-FRBC900001LB
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62efba6588a16bb7d6b6fb58-fr" tvg-id="6430aa45fc3be5947780904e-62efba6588a16bb7d6b6fb58" tvg-chno="" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="France",Éxitos del Momento
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-62efba6588a16bb7d6b6fb58.m3u8
 
-#EXTGRP:FSTV
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga TV UK
-#EXTVLCOPT:http-origin=https://fstv.space/
-#EXTVLCOPT:http-referrer=https://fstv.space/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758461574-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-8deae09852cf8ab8e936242c637f135c
-#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
-#EXTVLCOPT:http-origin=https://fstv.space/
-#EXTVLCOPT:http-referrer=https://fstv.space/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758462391-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-362850d2ba9df4e6b595ade3a0db189d
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FSTV",TNT Sports 1
-#EXTVLCOPT:http-origin=https://fstv.space/
-#EXTVLCOPT:http-referrer=https://fstv.space/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758461438-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-21ad3edbe8bacd65d009845830f7d472
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="FSTV",USA Network
-#EXTVLCOPT:http-origin=https://fstv.space/
-#EXTVLCOPT:http-referrer=https://fstv.space/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758461037-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-f01afa13126c80633c8e0d613ee9147e
-
 #EXTGRP:Game Show
 #EXTINF:-1 channel-id="562baf35c5da56cc91cdea41537b43f9" tvg-id="562baf35c5da56cc91cdea41537b43f9" tvg-chno="631" tvg-name="BUZZR" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/562baf35c5da56cc91cdea41537b43f9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654733081445_BUZZR_ROKU_HUD-MONO_260X147-2021RB.png" group-title="Game Show",BUZZR
 https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8
@@ -11366,22 +11344,17 @@ https://gg.poocloud.in/epl_arsenal/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_bournemouth/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_bournemouth/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f1fc878f125edb6edf5b118136cff431-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Cremonese vs. Parma
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_cremonese/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/seriea_cremonese/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bcc0e730f0f41e053a3dc0570e5ed8d2-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Frankfurt vs. Union Berlin
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_frankfurt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f74d1744149840b8fc6d4b8b2c355988-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lazio vs. Roma
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_lazio/index.m3u8
+https://gg.poocloud.in/bundesliga_frankfurt/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d65d076b02db76be7786f45e55f8cd44-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Napoli vs. Pisa
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -11397,6 +11370,11 @@ https://gg.poocloud.in/ligue1_paris-fc/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/laliga_rayo-vallecano/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7a44627191a624cf75c42dbbfc8d840a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",RCD Mallorca vs. Atlético de Madrid
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/laliga_rcd-mallorca/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c337e35a8456d8c6f4a879f0e023ae2c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sunderland vs. Aston Villa
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -11406,7 +11384,7 @@ https://gg.poocloud.in/epl_sunderland/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_torino/index.m3u8
+https://gg.poocloud.in/seriea_torino/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7b1146f3a2bd19175749404e676d5127-thumbnail.jpg" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
@@ -11419,7 +11397,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIz
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​‌​​‌‌​​‌​​‌​​​‌‌ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​‌​​​​‌​​‌​‌‌​‌‌‌‌​​‌‌‌ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -11428,7 +11406,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFh
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/southpark/index.m3u8
+https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -11446,16 +11424,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMy
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/skyf1/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5f2857c996237d5cf171ef72f3a3c332-thumbnail.jpg" group-title="PPVLand - Live Now",Unicaja vs NBA G League United
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/courtside-1891-214536/index.m3u8?md5=FTanR5JbhBtC7MHjpz4pNA&expires=1758465000&net=MTcyLjE3Mi4xNTMuMzU%3D
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/de824cded0cc3261a8a6d2ea75080aad-thumbnail.jpg" group-title="PPVLand - Live Now",Windrose Giants Antwerp v Pallacanestro Reggiana
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/courtside-1891-214429/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:PPVLand - MLB
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/db7faee4e3c76a9a65d4df87023afa5e-thumbnail.jpg" group-title="PPVLand - MLB",Boston Red Sox vs. Tampa Bay Rays
@@ -11489,7 +11457,7 @@ https://gg.poocloud.in/mets/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/NFLREDZONE/index.m3u8
+https://gg.poocloud.in/NFLREDZONE/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:Reality
 #EXTINF:-1 channel-id="99e44ea6699928b32c444dce774b9b32" tvg-id="99e44ea6699928b32c444dce774b9b32" tvg-chno="690" tvg-name="Chaos on Cam by A&E" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/99e44ea6699928b32c444dce774b9b32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png" group-title="Reality",Chaos on Cam by A&E
